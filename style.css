@@ -10,8 +10,9 @@ h3,h4{color: rgb(234, 4, 4);}
 .suggestion{
 position: absolute;
 left: 50px;
-font-size: large ;
+font-size: medium ;
 font-style: italic;
 background-color: aquamarine;
 padding: 30px;
 }
+
